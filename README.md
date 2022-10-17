@@ -1,3 +1,3 @@
 # phantom
 
-Recreating Home page Alone[phantom.app](https://phantom.app/).
+Recreating Home page Alone[phantom.app] (https://phantom.app/).
